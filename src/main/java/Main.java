@@ -1,4 +1,5 @@
-import task.*;
+import task.calc;
+import task.view;
 
 public class Main {
     public static void main(String[] args) {
